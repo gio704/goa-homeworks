@@ -1,0 +1,1 @@
+print('yvelas jobia f-is gamoyeneba radgan yvelaze martivia wasakitxad da dasaweradac aseve is pirdapir aqcevs cvlads stringad da bevrad moxerxebulia sxva variantebisgan gansxvavebit')
