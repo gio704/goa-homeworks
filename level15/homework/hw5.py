@@ -1,0 +1,1 @@
+print('append amatebs listshi ricxvs listis bolos, pop listshi shlis ricxvs mititebul adgilas, insert listshi amatebs ricxvs nebismier adgilas.')
